@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <!-- Background -->
+  <rect width="200" height="50" fill="#ffffff"/>
+  
+  <!-- Newspaper icon -->
+  <path d="M40 10 h20 v30 h-20 z" fill="#4A90E2" />
+  <path d="M45 15 h10 v2 h-10 z" fill="#ffffff" />
+  <path d="M45 20 h10 v2 h-10 z" fill="#ffffff" />
+  <path d="M45 25 h10 v2 h-10 z" fill="#ffffff" />
+  <path d="M45 30 h10 v2 h-10 z" fill="#ffffff" />
+  
+  <!-- Text -->
+  <text x="70" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#333333">
+    NewsHub
+  </text>
+  
+  <!-- Decorative line -->
+  <line x1="70" y1="38" x2="170" y2="38" stroke="#4A90E2" stroke-width="2"/>
+</svg>

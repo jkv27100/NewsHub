@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 10px;
+}
+
+.App-logo {
+  height: 60px;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 350px !important;
+}
+
+.search_container {
+  height: 350px;
+  position: absolute;
+  z-index: 10;
+  top: 50px;
+}
+
+.search_result {
+  height: 300px;
+  overflow: auto;
+}
+
+.sidebar_container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  height: 100%;
+}
